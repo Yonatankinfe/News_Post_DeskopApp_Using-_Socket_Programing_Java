@@ -21,4 +21,6 @@ Java Development Kit (JDK) installed
 Maven installed (for building the projects)
 javafx installed
 # Images 
+![Screenshot 2024-03-02 211843](https://github.com/Yonatankinfe/News_Post_DeskopApp_Using-_Socket_Programing_Java/assets/158090444/603510aa-e010-4068-b625-53076237d303)
+
 # Video
