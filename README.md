@@ -1,4 +1,4 @@
-#📰 Post and View News JavaFX Applications
+# 📰 Post and View News JavaFX Applications
 
 This repository contains two JavaFX applications for posting and viewing news. These applications are designed to communicate over a local network, allowing users to post news from one application and view it in another.
 
