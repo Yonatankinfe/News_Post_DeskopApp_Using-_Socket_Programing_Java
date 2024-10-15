@@ -2,7 +2,7 @@
 
 This repository contains two JavaFX applications for posting and viewing news. These applications are designed to communicate over a local network, allowing users to post news from one application and view it in another.
 
-#🎯 Purpose Of This Repo
+# 🎯 Purpose Of This Repo
 
 The purpose of these applications is to demonstrate real-time communication 📡 between multiple users using JavaFX and sockets. The "Post News" 📝 application allows users to input short text and post it as news to a server running on localhost 🖥️. On the other hand, the "View News" 👀 application continuously listens 🎧 for news updates from the server and displays them in a list view.
 
