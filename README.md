@@ -48,5 +48,5 @@ The "View News" application (com.mycompany.seethenews) displays news received ðŸ
 ![Screenshot 2024-03-02 211843](https://github.com/Yonatankinfe/News_Post_DeskopApp_Using-_Socket_Programing_Java/assets/158090444/603510aa-e010-4068-b625-53076237d303)
 
 # ðŸ“¹ Video
-sorry for the inconvenience 
++ Sorry for the inconvenience 
 I will re upload the video one I have found it 
